@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rainaakshay
 - 👀 I’m interested in the apple ecosystem
-- 🌱 I’m currently learning swift and react native
+- 🌱 I’m currently working professionally in swift and learning flutter
 - 📫 reach me @ araina1995@gmail.com
 
 <!---
